@@ -1,0 +1,21 @@
+.first
+{
+    width: 300px;
+    height: 350px;
+    border: 2px solid black;
+    padding: 30px;
+    text-align: center;
+    margin-top: 50px ;
+}
+.edit
+{
+    color: orangered;
+    text-align: center;
+    text-transform: uppercase;
+}
+.main
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
